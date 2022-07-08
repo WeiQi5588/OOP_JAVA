@@ -6,4 +6,6 @@ package com.concordia.oop;
  * @Date: 7/8/2022 14:32
  */
 public class Demo {
+	String name;
+	String gender;
 }
